@@ -1,0 +1,17 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+
+# Assignment 2: Feedback and grade
+
+This file will contain feedback to your submission and the points assigned to each exercise.
+
+| Exercise | Grade | Feedback |
+| --- | --- | --- |
+| 1 | 15.5/19     | Point size and opacity different; No x-axis; 
+| 2 | 12/19     | Incorrect values; Font size of the title and the subtitle; The subtitle is not displaying fully; proportion of the plot different
+| 3 | 14/22     | Font and position of the title; A gap between the graph and the x-axis; Font size and positions of labels on the three vertical bars different; Length of whiskers incorrect; Font, font size and positions of labels on whiskers different
+| 4 | 28/40     | Cool graphs! It can be better to have a title for each graph and it might be a good idea to display each genre in different subplots. It would also be interesting to know the time stamp of the animation and the meaning of the dots in the last graph. A line graph of mean, median or quantile can be a good idea to compare across genres across time, in addition to the last graph.
+| Total | 69.5/100      |
